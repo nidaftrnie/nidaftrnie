@@ -35,8 +35,7 @@
 </p>
 <br />
 
-## Use To Code
-
+<div align="center">
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Reactjs](https://img.shields.io/badge/-Reactjs-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
@@ -53,7 +52,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-FF141D?style=for-the-badge&labelColor=black&logo=oracle&logoColor=FF141D)
 ![Postgre](https://img.shields.io/badge/Postgre-396C94?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=396C94)
 ![](https://img.shields.io/badge/Figma-1D1D1D?style=for-the-badge&labelColor=black&logo=figma&logoColor=white)
-
+</div>
 
 <br/>
 
