@@ -48,8 +48,9 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-6482BA?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-005597?style=for-the-badge&labelColor=black&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-6482BA?style=for-the-badge&labelColor=black&logo=php&logoColor=6482BA)
+![C](https://img.shields.io/badge/C-005597?style=for-the-badge&labelColor=black&logo=c&logoColor=005597)
+![Java](https://img.shields.io/badge/Java-E11E22?style=for-the-badge&labelColor=black&logo=java&logoColor=E11E22)
 
 <br/>
 
