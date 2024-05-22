@@ -50,7 +50,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-6482BA?style=for-the-badge&labelColor=black&logo=php&logoColor=6482BA)
 ![C](https://img.shields.io/badge/C-005597?style=for-the-badge&labelColor=black&logo=c&logoColor=005597)
-![Oracle](https://img.shields.io/badge/Oracle-005597?style=for-the-badge&labelColor=black&logo=oracle&logoColor=005597)
+![Oracle](https://img.shields.io/badge/Oracle-FF141D?style=for-the-badge&labelColor=black&logo=oracle&logoColor=FF141D)
 
 
 <br/>
