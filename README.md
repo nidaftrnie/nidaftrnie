@@ -52,6 +52,7 @@
 ![C](https://img.shields.io/badge/C-005597?style=for-the-badge&labelColor=black&logo=c&logoColor=005597)
 ![Oracle](https://img.shields.io/badge/Oracle-FF141D?style=for-the-badge&labelColor=black&logo=oracle&logoColor=FF141D)
 ![Postgre](https://img.shields.io/badge/Postgre-396C94?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=396C94)
+![](https://img.shields.io/badge/Figma-1D1D1D?style=for-the-badge&labelColor=black&logo=figma&logoColor=white)
 
 
 <br/>
