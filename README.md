@@ -49,7 +49,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-6482BA?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C#-6482BA?style=for-the-badge&logo=c#&logoColor=white)
+![C](https://img.shields.io/badge/C-6482BA?style=for-the-badge&logo=c&logoColor=white)
 
 <br/>
 
